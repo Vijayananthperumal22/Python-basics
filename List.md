@@ -11,7 +11,7 @@ print(item)
 item = my_list[-1]
 print(item)
 
-#xiteration
+#iteration
 for i in my_list:
     print(i)
     
